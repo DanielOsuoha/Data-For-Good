@@ -33,3 +33,8 @@ After evaluating various factors, the analysis focused on the following cities a
 
 These cities were chosen based on their alignment with the program's mission and the variables mentioned above.
 ---
+
+### Sources
+
+https://trends.vera.org/state/IL/county/cook_county
+https://www.census.gov/naics/?58967?yearbck=2022
