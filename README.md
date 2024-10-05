@@ -1,4 +1,4 @@
-# Team13 - MKE Fellows Expansion Analysis
+# 🏙️ Team13 - MKE Fellows Expansion Analysis
 
 ## Team Members:
 - **Gio Eloja**
@@ -28,8 +28,8 @@ We conducted data-driven research using the following criteria to assess which c
 
 ## Cities Analyzed:
 After evaluating various factors, the analysis focused on the following cities as potential targets for expansion:
-1. **Chicago, IL**
-2. **Houston, TX**
+1. **Chicago, IL** 🌆
+2. **Houston, TX** 🌇
 
 These cities were chosen based on their alignment with the program's mission and the variables mentioned above.
 ---
