@@ -38,3 +38,4 @@ These cities were chosen based on their alignment with the program's mission and
 
 - https://trends.vera.org/state/IL/county/cook_county
 - https://www.census.gov/naics/?58967?yearbck=2022
+- https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
