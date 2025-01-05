@@ -2,6 +2,7 @@
 # 🏙️ Team13 - MKE Fellows Expansion Analysis
 
 ## Team Members:
+- **Daniel osuoha**
 - **Gio Eloja**
 - **Michael Martinez**
 - **Neha Aigalikar**
